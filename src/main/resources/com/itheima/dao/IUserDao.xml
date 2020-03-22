@@ -7,4 +7,33 @@
     <select id="findAll" resultType="com.itheima.domain.User">
         select * from user
     </select>
+
+    <insert id="saveUser" parameterType="com.itheima.domain.User">
+        insert into user(username,address,sex,birthday) value (#{username},#{address},#{sex},#{birthday});
+    </insert>
+
+    <update id="updateUser" parameterType="com.itheima.domain.User">
+        update user set username=#{username},address=#{address},sex=#{sex},birthday=#{birthday} where id=#{id}
+    </update>
+
+    <delete id="deleteUser" parameterType="Integer">
+        delete from user where id=#{uid}
+    </delete>
+
+    <select id="findById" parameterType="Integer" resultType="com.itheima.domain.User">
+        select * from user where id = #{id}
+    </select>
+
+    <select id="findByName" parameterType="string" resultType="com.itheima.domain.User">
+        select * from user where username like #{name}
+    </select>
+
+    <select id="findTotal" resultType="Integer">
+        select count(id) from user
+    </select>
+
+    <!--根据queryVo的条件查询用户-->
+    <select id="findUserByVo" parameterType="com.itheima.domain.QueryVo" resultType="com.itheima.domain.User">
+        select * from user where username like #{user.username}
+    </select>
 </mapper>
