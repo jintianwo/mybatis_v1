@@ -218,3 +218,261 @@
 2020-03-22 22:06:18,021 480    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@51e2adc7]
 2020-03-22 22:06:18,021 480    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@51e2adc7]
 2020-03-22 22:06:18,022 481    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1373810119 to pool.
+2020-03-26 00:06:14,691 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-03-26 00:06:14,803 112    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:06:14,803 112    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:06:14,803 112    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:06:14,803 112    [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:06:56,445 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-03-26 00:06:56,518 73     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:06:56,518 73     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:06:56,518 73     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:06:56,518 73     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:07:18,825 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-03-26 00:07:18,901 76     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:07:18,901 76     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:07:18,901 76     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:07:18,901 76     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:09:17,430 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-03-26 00:09:17,508 78     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:09:17,508 78     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:09:17,508 78     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:09:17,508 78     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:10:41,615 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-03-26 00:10:41,706 91     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:10:41,707 92     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:10:41,707 92     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:10:41,707 92     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:10:41,717 102    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2020-03-26 00:10:41,717 102    [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2020-03-26 00:10:41,718 103    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2020-03-26 00:10:41,719 104    [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-03-26 00:10:41,719 104    [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-03-26 00:10:41,720 105    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:10:41,720 105    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:10:41,764 149    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IRoleDao.class
+2020-03-26 00:10:41,765 150    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IRoleDao.xml
+2020-03-26 00:10:41,765 150    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2020-03-26 00:10:41,765 150    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2020-03-26 00:10:41,765 150    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:10:41,766 151    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.class
+2020-03-26 00:10:41,766 151    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.class
+2020-03-26 00:10:41,766 151    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1  	 
+2020-03-26 00:10:41,767 152    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.xml
+2020-03-26 00:10:41,767 152    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.xml
+2020-03-26 00:10:41,768 153    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-03-26 00:10:41,768 153    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.class
+2020-03-26 00:10:41,768 153    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.class
+2020-03-26 00:10:41,769 154    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1  	 
+2020-03-26 00:10:41,769 154    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.xml
+2020-03-26 00:10:41,769 154    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.xml
+2020-03-26 00:10:41,770 155    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-03-26 00:10:41,770 155    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IRoleDao matches criteria [is assignable to Object]
+2020-03-26 00:10:41,770 155    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IUserDao matches criteria [is assignable to Object]
+2020-03-26 00:10:41,863 248    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-03-26 00:10:42,115 500    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1489069835.
+2020-03-26 00:10:42,115 500    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@58c1670b]
+2020-03-26 00:10:42,117 502    [           main] DEBUG m.itheima.dao.IRoleDao.findAll  - ==>  Preparing: select * from role 
+2020-03-26 00:10:42,150 535    [           main] DEBUG m.itheima.dao.IRoleDao.findAll  - ==> Parameters: 
+2020-03-26 00:10:42,167 552    [           main] DEBUG m.itheima.dao.IRoleDao.findAll  - <==      Total: 3
+2020-03-26 00:10:42,168 553    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@58c1670b]
+2020-03-26 00:10:42,168 553    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@58c1670b]
+2020-03-26 00:10:42,168 553    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1489069835 to pool.
+2020-03-26 00:25:01,579 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-03-26 00:25:01,672 93     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:25:01,672 93     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:25:01,672 93     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:25:01,673 94     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:25:01,680 101    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2020-03-26 00:25:01,680 101    [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2020-03-26 00:25:01,680 101    [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2020-03-26 00:25:01,681 102    [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-03-26 00:25:01,681 102    [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-03-26 00:25:01,681 102    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:25:01,682 103    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:25:01,719 140    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IRoleDao.class
+2020-03-26 00:25:01,719 140    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IRoleDao.xml
+2020-03-26 00:25:01,719 140    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2020-03-26 00:25:01,720 141    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2020-03-26 00:25:01,720 141    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:25:01,720 141    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.class
+2020-03-26 00:25:01,720 141    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.class
+2020-03-26 00:25:01,721 142    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1  	 
+2020-03-26 00:25:01,721 142    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.xml
+2020-03-26 00:25:01,721 142    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.xml
+2020-03-26 00:25:01,721 142    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-03-26 00:25:01,722 143    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.class
+2020-03-26 00:25:01,722 143    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.class
+2020-03-26 00:25:01,722 143    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1  	 
+2020-03-26 00:25:01,723 144    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.xml
+2020-03-26 00:25:01,723 144    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.xml
+2020-03-26 00:25:01,724 145    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-03-26 00:25:01,724 145    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IRoleDao matches criteria [is assignable to Object]
+2020-03-26 00:25:01,724 145    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IUserDao matches criteria [is assignable to Object]
+2020-03-26 00:25:01,807 228    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-03-26 00:25:02,028 449    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1800890735.
+2020-03-26 00:25:02,029 450    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:25:02,031 452    [           main] DEBUG m.itheima.dao.IRoleDao.findAll  - ==>  Preparing: select u.*,r.id as rid,r.role_name,r.role_desc from role r left outer join user_role ur on r.id = ur.rid left outer join user u on u.id = ur.id 
+2020-03-26 00:25:02,064 485    [           main] DEBUG m.itheima.dao.IRoleDao.findAll  - ==> Parameters: 
+2020-03-26 00:25:02,086 507    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:25:02,086 507    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:25:02,086 507    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1800890735 to pool.
+2020-03-26 00:26:46,595 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-03-26 00:26:46,678 83     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:26:46,679 84     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:26:46,679 84     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:26:46,679 84     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:26:46,686 91     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2020-03-26 00:26:46,686 91     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2020-03-26 00:26:46,686 91     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2020-03-26 00:26:46,687 92     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-03-26 00:26:46,687 92     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-03-26 00:26:46,687 92     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:26:46,688 93     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:26:46,721 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IRoleDao.class
+2020-03-26 00:26:46,721 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IRoleDao.xml
+2020-03-26 00:26:46,721 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2020-03-26 00:26:46,721 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2020-03-26 00:26:46,721 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:26:46,721 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.class
+2020-03-26 00:26:46,722 127    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.class
+2020-03-26 00:26:46,722 127    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1  	 
+2020-03-26 00:26:46,722 127    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.xml
+2020-03-26 00:26:46,723 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.xml
+2020-03-26 00:26:46,723 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-03-26 00:26:46,723 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.class
+2020-03-26 00:26:46,723 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.class
+2020-03-26 00:26:46,723 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1  	 
+2020-03-26 00:26:46,724 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.xml
+2020-03-26 00:26:46,724 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.xml
+2020-03-26 00:26:46,724 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-03-26 00:26:46,724 129    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IRoleDao matches criteria [is assignable to Object]
+2020-03-26 00:26:46,724 129    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IUserDao matches criteria [is assignable to Object]
+2020-03-26 00:26:46,799 204    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-03-26 00:26:47,002 407    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1800890735.
+2020-03-26 00:26:47,002 407    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:26:47,004 409    [           main] DEBUG m.itheima.dao.IRoleDao.findAll  - ==>  Preparing: select u.*,r.id as rid,r.role_name,r.role_desc from role r left outer join user_role ur on r.id = ur.rid left outer join user u on u.id = ur.uid 
+2020-03-26 00:26:47,032 437    [           main] DEBUG m.itheima.dao.IRoleDao.findAll  - ==> Parameters: 
+2020-03-26 00:26:47,058 463    [           main] DEBUG m.itheima.dao.IRoleDao.findAll  - <==      Total: 4
+2020-03-26 00:26:47,061 466    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:26:47,062 467    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:26:47,062 467    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1800890735 to pool.
+2020-03-26 00:33:26,555 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-03-26 00:33:26,636 81     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:33:26,636 81     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:33:26,636 81     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:33:26,636 81     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:33:26,644 89     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2020-03-26 00:33:26,644 89     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2020-03-26 00:33:26,644 89     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2020-03-26 00:33:26,645 90     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-03-26 00:33:26,645 90     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-03-26 00:33:26,645 90     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:33:26,645 90     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:33:26,681 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IRoleDao.class
+2020-03-26 00:33:26,681 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IRoleDao.xml
+2020-03-26 00:33:26,681 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2020-03-26 00:33:26,681 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2020-03-26 00:33:26,681 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:33:26,681 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.class
+2020-03-26 00:33:26,681 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.class
+2020-03-26 00:33:26,682 127    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1  	 
+2020-03-26 00:33:26,682 127    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.xml
+2020-03-26 00:33:26,682 127    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.xml
+2020-03-26 00:33:26,683 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-03-26 00:33:26,683 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.class
+2020-03-26 00:33:26,683 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.class
+2020-03-26 00:33:26,684 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1  	 
+2020-03-26 00:33:26,684 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.xml
+2020-03-26 00:33:26,684 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.xml
+2020-03-26 00:33:26,684 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-03-26 00:33:26,684 129    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IRoleDao matches criteria [is assignable to Object]
+2020-03-26 00:33:26,685 130    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IUserDao matches criteria [is assignable to Object]
+2020-03-26 00:33:26,761 206    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-03-26 00:33:27,037 482    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1800890735.
+2020-03-26 00:33:27,038 483    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:33:27,045 490    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==>  Preparing: select u.*,r.id as rid,r.role_name,r.role_desc from user u left outer join user_role ur on u.id = ur.uid left outer join role r on r.id = ur.rid 
+2020-03-26 00:33:27,102 547    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==> Parameters: 
+2020-03-26 00:33:27,129 574    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - <==      Total: 9
+2020-03-26 00:33:27,132 577    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:33:27,134 579    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:33:27,134 579    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1800890735 to pool.
+2020-03-26 00:34:35,641 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-03-26 00:34:35,721 80     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:34:35,721 80     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:34:35,721 80     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:34:35,721 80     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:34:35,728 87     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2020-03-26 00:34:35,728 87     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2020-03-26 00:34:35,728 87     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2020-03-26 00:34:35,729 88     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-03-26 00:34:35,729 88     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-03-26 00:34:35,730 89     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:34:35,730 89     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:34:35,763 122    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IRoleDao.class
+2020-03-26 00:34:35,764 123    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IRoleDao.xml
+2020-03-26 00:34:35,764 123    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2020-03-26 00:34:35,764 123    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2020-03-26 00:34:35,764 123    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:34:35,764 123    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.class
+2020-03-26 00:34:35,764 123    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.class
+2020-03-26 00:34:35,765 124    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1  	 
+2020-03-26 00:34:35,765 124    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.xml
+2020-03-26 00:34:35,765 124    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.xml
+2020-03-26 00:34:35,766 125    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-03-26 00:34:35,766 125    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.class
+2020-03-26 00:34:35,766 125    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.class
+2020-03-26 00:34:35,766 125    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1  	 
+2020-03-26 00:34:35,767 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.xml
+2020-03-26 00:34:35,767 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.xml
+2020-03-26 00:34:35,767 126    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-03-26 00:34:35,767 126    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IRoleDao matches criteria [is assignable to Object]
+2020-03-26 00:34:35,768 127    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IUserDao matches criteria [is assignable to Object]
+2020-03-26 00:34:35,843 202    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-03-26 00:34:36,048 407    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1800890735.
+2020-03-26 00:34:36,049 408    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:34:36,050 409    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==>  Preparing: select u.*,r.id as rid,r.role_name,r.role_desc from user u left outer join user_role ur on u.id = ur.uid left outer join role r on r.id = ur.rid 
+2020-03-26 00:34:36,076 435    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==> Parameters: 
+2020-03-26 00:34:36,096 455    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:34:36,096 455    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:34:36,096 455    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1800890735 to pool.
+2020-03-26 00:35:14,713 0      [           main] DEBUG ache.ibatis.logging.LogFactory  - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-03-26 00:35:14,799 86     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:35:14,799 86     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:35:14,799 86     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:35:14,799 86     [           main] DEBUG source.pooled.PooledDataSource  - PooledDataSource forcefully closed/removed all connections.
+2020-03-26 00:35:14,806 93     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VFS
+2020-03-26 00:35:14,806 93     [           main] DEBUG org.apache.ibatis.io.JBoss6VFS  - JBoss 6 VFS API is not available in this environment.
+2020-03-26 00:35:14,806 93     [           main] DEBUG       org.apache.ibatis.io.VFS  - Class not found: org.jboss.vfs.VirtualFile
+2020-03-26 00:35:14,807 94     [           main] DEBUG       org.apache.ibatis.io.VFS  - VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-03-26 00:35:14,807 94     [           main] DEBUG       org.apache.ibatis.io.VFS  - Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-03-26 00:35:14,807 94     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:35:14,807 94     [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:35:14,840 127    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IRoleDao.class
+2020-03-26 00:35:14,841 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IRoleDao.xml
+2020-03-26 00:35:14,841 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.class
+2020-03-26 00:35:14,841 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: IUserDao.xml
+2020-03-26 00:35:14,841 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Listing file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao
+2020-03-26 00:35:14,841 128    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.class
+2020-03-26 00:35:14,842 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.class
+2020-03-26 00:35:14,842 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1  	 
+2020-03-26 00:35:14,842 129    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.xml
+2020-03-26 00:35:14,843 130    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IRoleDao.xml
+2020-03-26 00:35:14,843 130    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-03-26 00:35:14,843 130    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.class
+2020-03-26 00:35:14,843 130    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.class
+2020-03-26 00:35:14,844 131    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: ����   1  	 
+2020-03-26 00:35:14,844 131    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Find JAR URL: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.xml
+2020-03-26 00:35:14,844 131    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Not a JAR: file:/Users/libusheng/IdeaProjects/duyi/mybatis/mybatis_v1/target/classes/com/itheima/dao/IUserDao.xml
+2020-03-26 00:35:14,844 131    [           main] DEBUG rg.apache.ibatis.io.DefaultVFS  - Reader entry: <?xml version="1.0" encoding="UTF-8"?>
+2020-03-26 00:35:14,845 132    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IRoleDao matches criteria [is assignable to Object]
+2020-03-26 00:35:14,845 132    [           main] DEBUG .apache.ibatis.io.ResolverUtil  - Checking to see if class com.itheima.dao.IUserDao matches criteria [is assignable to Object]
+2020-03-26 00:35:14,924 211    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Opening JDBC Connection
+2020-03-26 00:35:15,136 423    [           main] DEBUG source.pooled.PooledDataSource  - Created connection 1800890735.
+2020-03-26 00:35:15,136 423    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:35:15,138 425    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==>  Preparing: select u.*,r.id as rid,r.role_name,r.role_desc from user u left outer join user_role ur on u.id = ur.uid left outer join role r on r.id = ur.rid 
+2020-03-26 00:35:15,166 453    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - ==> Parameters: 
+2020-03-26 00:35:15,188 475    [           main] DEBUG m.itheima.dao.IUserDao.findAll  - <==      Total: 9
+2020-03-26 00:35:15,191 478    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:35:15,191 478    [           main] DEBUG ansaction.jdbc.JdbcTransaction  - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6b57696f]
+2020-03-26 00:35:15,191 478    [           main] DEBUG source.pooled.PooledDataSource  - Returned connection 1800890735 to pool.

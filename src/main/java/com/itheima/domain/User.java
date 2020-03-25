@@ -2,6 +2,7 @@ package com.itheima.domain;
 
 import java.io.Serializable;
 import java.util.Date;
+import java.util.List;
 
 /**
  * @author 黑马程序员
@@ -14,6 +15,18 @@ public class User implements Serializable{
     private Date birthday;
     private String sex;
     private String address;
+
+    //多对多的关系映射，一个用户可以具备多个角色
+    private List<Role> roles;
+
+
+    public List<Role> getRoles() {
+        return roles;
+    }
+
+    public void setRoles(List<Role> roles) {
+        this.roles = roles;
+    }
 
     public Integer getId() {
         return id;
@@ -63,6 +76,7 @@ public class User implements Serializable{
                 ", birthday=" + birthday +
                 ", sex='" + sex + '\'' +
                 ", address='" + address + '\'' +
+                ", roles=" + roles +
                 '}';
     }
 }

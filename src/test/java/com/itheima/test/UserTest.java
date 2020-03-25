@@ -1,6 +1,8 @@
 package com.itheima.test;
 
+import com.itheima.dao.IRoleDao;
 import com.itheima.dao.IUserDao;
+import com.itheima.domain.Role;
 import com.itheima.domain.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
@@ -11,7 +13,6 @@ import org.junit.Before;
 import org.junit.Test;
 
 import java.io.InputStream;
-import java.util.Date;
 import java.util.List;
 
 /**
@@ -19,7 +20,7 @@ import java.util.List;
  * @Company http://www.ithiema.com
  * mybatis的入门案例
  */
-public class MybatisTest {
+public class UserTest {
 
     private InputStream in;
     private SqlSession sqlSession;
@@ -69,6 +70,15 @@ public class MybatisTest {
         //6.释放资源
         session.close();
         in.close();
+    }
+
+    @Test
+    public void testFindAll(){
+        List<User> roles = userDao.findAll();
+
+        for(User user : roles){
+            System.out.println(user);
+        }
     }
 
 }

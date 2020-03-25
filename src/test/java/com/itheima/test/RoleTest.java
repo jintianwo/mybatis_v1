@@ -1,6 +1,8 @@
 package com.itheima.test;
 
+import com.itheima.dao.IRoleDao;
 import com.itheima.dao.IUserDao;
+import com.itheima.domain.Role;
 import com.itheima.domain.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
@@ -11,7 +13,6 @@ import org.junit.Before;
 import org.junit.Test;
 
 import java.io.InputStream;
-import java.util.Date;
 import java.util.List;
 
 /**
@@ -19,11 +20,11 @@ import java.util.List;
  * @Company http://www.ithiema.com
  * mybatis的入门案例
  */
-public class MybatisTest {
+public class RoleTest {
 
     private InputStream in;
     private SqlSession sqlSession;
-    private IUserDao userDao;
+    private IRoleDao userDao;
 
     @Before
     public void init() throws Exception{
@@ -35,7 +36,7 @@ public class MybatisTest {
         //3.使用工厂生产SqlSession对象
         sqlSession = factory.openSession();
         //4.使用SqlSession创建Dao接口的代理对象
-        userDao = sqlSession.getMapper(IUserDao.class);
+        userDao = sqlSession.getMapper(IRoleDao.class);
     }
 
     @After
@@ -69,6 +70,15 @@ public class MybatisTest {
         //6.释放资源
         session.close();
         in.close();
+    }
+
+    @Test
+    public void testFindAll(){
+        List<Role> roles = userDao.findAll();
+
+        for(Role user : roles){
+            System.out.println(user);
+        }
     }
 
 }
